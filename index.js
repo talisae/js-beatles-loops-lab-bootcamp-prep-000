@@ -10,7 +10,7 @@ function johnLennonFacts() {
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"];
-  var newFacts = []
+  var newFacts = [];
   let i = 0;
     while (i < facts.length) {
     newFacts.push(facts[i] + "!!!"); i++;
