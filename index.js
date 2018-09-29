@@ -17,14 +17,14 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(number) {
-  return
+  function 
   var array = [];
   do {
     
   }
 }
-
-function maybeTrue() {
+function doWhileLoop(array) {
+  function maybeTrue() {
     return Math.random() >= 0.5
   }
    do {
